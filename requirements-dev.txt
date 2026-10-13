@@ -1,0 +1,8 @@
+-r requirements.txt
+pytest>=8.3,<9
+pytest-qt>=4.4,<5
+pytest-benchmark>=4.0,<5
+ruff>=0.7,<0.9
+black>=24.10,<25
+mypy>=1.13,<2
+types-psutil>=6.0,<7
